@@ -1,4 +1,5 @@
 /target/
+polybar-forecast
 **/*.rs.bk
 Cargo.lock
 config.toml
